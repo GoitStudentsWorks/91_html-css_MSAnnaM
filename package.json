@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/new_developers/",
+    "build": "vite build --base=/91_html-css_MSAnnaM/",
     "preview": "vite preview"
   },
   "devDependencies": {
